@@ -1,0 +1,114 @@
+;Study;Intervention;Comparison;Total number of participants;Hedges' g ideation;Standard Error Ideation;RR_attempts;SE_attempts;Age_group;Target Group;Recruitment;Disorder;Country;N_sessions;RoB_SG;RoB_AC;RoBCLAssAtt;RoB_BLAss_Ide;RoB_ITT;RoB_overall_ideation;Year
+1;Alavi 2013;Cognitive;Waitlist;30;-2,930378418;0,525786992;NA;NA;Adolescents;General;Other;Major Depression;Other;12;0,5;0,5;NA;0,5;1;High risk;2013
+2;Albert 2017;Mixed/other;TAU;400;-0,345065472;0,100752609;NA;NA;Adults;General;Clinical;Psychosis;EU;NA;1;1;NA;1;1;No information;2017
+3;Amianto 2011;Psychodynamic;Other control;35;0,129726796;0,338555017;NA;NA;Adults;General;Clinical;Personality disorders /borderline;EU;40;1;1;0,5;NA;1;High risk;2011
+4;Andreoli 2016 ;Psychodynamic;TAU;85;-1,080765269;0,296349936;0,266352306;0,157740556;Adults;General;Emergency department/physical treatment after an attempt;Comorbidity severe disorders;EU;24;0;1;0,5;0,5;1;High risk;2016
+6;Armitage 2016;Mixed/other;Other control;111,5;-0,478609185;0,20434725;NA;NA;Adults;General;Clinical;Suicidality only;UK;NA;1;1;NA;0,5;0;High risk;2016
+7;Armitage 2016;Mixed/other;Other control;114,5;-0,4785362;0,203021574;NA;NA;Adults;General;Clinical;Suicidality only;UK;NA;1;1;NA;0,5;0;High risk;2016
+9;Asarnow 2011;Family;TAU;181;NA;NA;0,009895345;0,03396231;Adolescents;General;Emergency department/physical treatment after an attempt;Suicidality only;USA;NA;1;0,5;1;1;0;High risk;2011
+10;Asarnow 2017;Family;TAU;42;NA;NA;0,193625932;0,108338513;Adolescents;General;Clinical;Suicidality only;USA;NA;1;1;1;1;1;No information;2017
+11;Bannan 2010;Problem solving;TAU;18;-0,747980561;0,487609672;NA;NA;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;EU;8;1;1;NA;2;0;High risk;2010
+12;Barnhofer 2009;Cognitive;Waitlist;31;-0,572118585;0,36666881;NA;NA;Adults;General;Mixed;Major Depression;UK;8;1;1;NA;2;0;High risk;2009
+13;Bateman 2009;Psychodynamic;TAU;134;NA;NA;0,264413752;0,076235336;Adults;General;Clinical;Personality disorders /borderline;UK;78;1;1;0;NA;0;No information;2009
+16;Bentley 2017;Mixed/other;TAU;12;0,199046347;0,578778147;0;0,148249863;Adults;General;Clinical;Suicidality only;USA;5;0,5;0,5;2;2;0;High risk;2017
+19;Brenner 2018;Mixed/other;Waitlist;35;-0,638023414;0,349974296;NA;NA;Adults;Veterans;Community;NA;Australia;10;1;1;NA;1;0;High risk;2018
+22;Brown 2005;Cognitive;TAU;120;NA;NA;0,239229689;0,122353134;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;USA;10;1;1;0;0;1;High risk;2005
+23;Brown 2019 ;EMDR and imagery based;Other control;149;NA;NA;0,007714276;0,018510136;Adults;Veterans;Other;PTSD;USA;10;0,5;1;2;0;0,5;High risk;2019
+24;Bryan 2017;Mixed/other;TAU;48;-0,327498909;0,308005268;0,342944751;0,171514301;Adults;Veterans;Clinical;Suicidality only;USA;7;1;0,5;1;1;1;No information;2017
+25;Bryan 2017;Mixed/other;TAU;49;-0,578640173;0,310192853;0,312173092;0,174253049;Adults;Veterans;Clinical;Suicidality only;USA;8;1;0,5;1;1;1;No information;2017
+26;Bush 2017;Mixed/other;Psychoeducation;118;-0,014691088;0,184143858;NA;NA;Adults;Veterans;Clinical;Suicidality only;USA;7;1;0,5;0;0;0;High risk;2017
+27;Celano 2017;Mixed/other;Other control;65;NA;NA;-0,03170493;0,043381828;Adults;General;Clinical;Major Depression;USA;6;1;1;1;2;1;High risk;2017
+32;Cottrell 2018;Family;TAU;832;NA;NA;-0,232322092;0,059923445;Adolescents;General;Clinical;Suicidality only;UK;7;1;0,5;1;2;1;High risk;2018
+33;Davidson 2014;Cognitive;TAU;20;-1,270974318;0,527711693;NA;NA;Adults;General;Emergency department/physical treatment after an attempt;Personality disorders /borderline;UK;6;1;1;NA;2;0;High risk;2014
+34;Davidson 2006;Cognitive;TAU;106;NA;NA;0,111791406;0,14928682;Adults;General;Clinical;Personality disorders /borderline;UK;23;1;1;1;NA;1;No information;2006
+36;DeJaegere 2019;Mixed/other;Waitlist;724;NA;NA;0,014722042;0,012886136;Adults;General;Community;Suicidality only;EU;6;1;0,5;NA;2;0;High risk;2019
+37;Diamond 2019;Family;Attention control;129;NA;NA;0,034825624;0,039365232;Adolescents;General;Mixed;Major Depression;USA;16;1;0,5;NA;2;1;High risk;2019
+39;Doering 2010;Psychodynamic;TAU;104;NA;NA;0;0,027461752;Adults;General;Clinical;Personality disorders /borderline;EU;48,5;0,5;1;0;NA;1;No information;2010
+40;Donaldson 2005;Mixed/other;Other control;31;-0,141035376;0,359843701;-0,245616407;0,168549966;Adolescents;General;Clinical;Suicidality only;USA;10;0,5;0,5;0,5;2;0;High risk;2005
+41;Ducasse 2019;Mixed/other;Attention control;201;-0,342476083;0,142101217;NA;NA;Adults;General;Clinical;Suicidality only;EU;NA;0,5;1;NA;1;1;High risk;2019
+42;Ducasse 2018;Cognitive;Attention control;40;-1,766221864;0,373155293;0,110541874;0,090553518;Adults;General;Clinical;Suicidality only;EU;7;1;1;1;1;0;High risk;2018
+46;Ertl 2011;EMDR and imagery based;Waitlist;43;0,29810669;0,327023966;NA;NA;Adolescents;Other;Community;PTSD;Other;8;0,5;0,5;NA;1;1;High risk;2011
+47;Ertl 2011;Mixed/other;Waitlist;42;0,324351964;0,329234397;NA;NA;Adolescents;Other;Community;PTSD;Other;8;0,5;0,5;NA;1;1;High risk;2011
+48;Eskin 2008;Problem solving;Waitlist;46;-0,212577172;0,300266217;NA;NA;Adolescents;Student population;Community;Major Depression;Other;6;0,5;0,5;NA;2;0;High risk;2008
+50;Esposito-Smythers 2011;Cognitive;TAU;147;NA;NA;0,07216117;0,037574721;Adolescents;General;Clinical;Major Depression;USA;38;1;0,5;1;2;0;High risk;2011
+51;Esposito-Smythers 2019;Family;TAU;81;0,02722986;0,222249456;-0,11170399;0,093223195;Adolescents;General;Mixed;Comorbidity mild disorders;USA;2;1;1;1;2;0;High risk;2019
+52;Evans 1999;Cognitive;TAU;34;NA;NA;0,169899037;0,416666667;Adults;General;Clinical;Personality disorders /borderline;UK;4;0,5;0,5;0,5;NA;0;High risk;1999
+53;Eylem 2021;Cognitive;Waitlist;18;-0,164262148;0,475131036;0,010638398;0,104235081;Adults;Young people (15-35);Community;Suicidality only;EU;7;1;1;0;0;0;High risk;2021
+56;Franklin  2016 Study 1;Mixed/other;Attention control;114;NA;NA;-0,025105921;0,055234477;Adults;General;Community;Suicidality only;Other;NA;1;0,5;0,5;0,5;1;High risk;NA
+57;Franklin  2016 Study 2;Mixed/other;Attention control;131;NA;NA;0,056541266;0,054891129;Adults;General;Community;Suicidality only;Other;NA;1;0,5;0,5;0,5;1;High risk;NA
+58;Franklin 2016 Study 3;Mixed/other;Attention control;163;NA;NA;0,021403909;0,035328666;Adults;General;Community;Suicidality only;Other;NA;1;0,5;0,5;0,5;1;High risk;2016
+59;Ghahramanlou-Holloway 2018;Cognitive;TAU;24;-0,238472056;0,409696761;0,105360516;0,210818511;Adults;Veterans;Emergency department/physical treatment after an attempt;Suicidality only;USA;6;0,5;1;1;1;0;High risk;2018
+60;Gleeson 2012;Cognitive;TAU;16;-0,591843734;0,510828953;NA;NA;Adults;General;Clinical;Comorbidity severe disorders;Australia;16;1;1;NA;0;0;High risk;2012
+63;Goodyer 2008;Mixed/other;Medication;208;NA;NA;-0,007694622;0,035774194;Adolescents;General;Clinical;Major Depression;UK;19;1;1;1;1;1;High risk;2008
+65;Gregory 2008;Psychodynamic;TAU;30;NA;NA;0;0,182574186;Adults;General;Clinical;Comorbidity severe disorders;USA;104;1;1;0;NA;1;No information;2008
+67;Guthrie 2001;Psychodynamic;TAU;119;-0,224610869;0,18397499;NA;NA;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;UK;4;1;1;1;1;0;High risk;2001
+68;Gysin-Maillart 2016;Mixed/other;Other control;120;NA;NA;0,10724553;0,049837172;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;EU;3;1;1;1;1;1;High risk;2016
+69;Haddock 2019;Cognitive;TAU;51;0,16976287;0,28104492;NA;NA;Adults;General;Clinical;Suicidality only;UK;20;1;1;0,5;2;1;High risk;2019
+71;Harrington 1998;Family;TAU;162;-0,067689993;0,157371728;NA;NA;Adolescents;General;Clinical;Suicidality only;UK;5;0,5;1;NA;2;0;High risk;1998
+72;Hatcher 2016;Problem solving;TAU;365;NA;NA;0,088594372;0,042926095;Adults;Young people (15-35);Emergency department/physical treatment after an attempt;Suicidality only;Australia;5;1;0,5;2;0;1;High risk;2016
+73;Hatcher 2015;Problem solving;TAU;1474;NA;NA;-0,016755914;0,018247414;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;Australia;5;1;0,5;1;NA;1;No information;2015
+74;Hatcher 2011;Problem solving;TAU;1094;-0,435975729;0,061244037;0,008709456;0,024188607;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;Australia;6,5;1;1;1;2;1;High risk;2011
+75;Hazell 2009  ;Mixed/other;TAU;72;-0,04661317;0,235825241;NA;NA;Adolescents;General;NA;Suicidality only;Australia;6;1;1;1;2;0;High risk;2009
+76;Hetrick 2017;Mixed/other;TAU;50;NA;NA;0,132130757;0,084914309;Adolescents;General;Other;Suicidality only;Australia;8;1;1;1;2;0;High risk;2017
+77;Hill 2019;Mixed/other;Psychoeducation;80;-0,499470268;0,22706649;NA;NA;Adolescents;General;Community;Suicidality only;USA;2;1;1;NA;1;1;No information;2019
+78;Hogberg 2018;Cognitive;TAU;27;NA;NA;0,281908861;0,174230336;Adolescents;General;Clinical;Major Depression;EU;12;1;1;0;0;0;High risk;2018
+81;Husain 2014;Problem solving;TAU;221;-0,349377141;0,135591226;NA;NA;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;Other;6;1;1;1;2;0;High risk;2014
+82;Hvid 2011;Mixed/other;TAU;133;NA;NA;0,1558883;0,075863445;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;EU;NA;1;1;1;NA;1;No information;2011
+86;Kaslow 2010;Mixed/other;TAU;217;-0,754245364;0,143168984;NA;NA;Adults;Other;Clinical;Suicidality only;USA;10;1;0,5;NA;2;0;High risk;2010
+87;King 2015;Mixed/other;TAU;49;-0,159876488;0,287667175;NA;NA;Adolescents;General;Emergency department/physical treatment after an attempt;Suicidality only;USA;NA;1;0,5;NA;2;0;High risk;2015
+88;Koons 2001;Dialectic;TAU;20;-1,264583654;0,489876817;NA;NA;Adults;Veterans;Clinical;Personality disorders /borderline;USA;26;0,5;0,5;1;NA;0;No information;2001
+89;LaCroix 2018;Cognitive;TAU;36;1,016873446;0,354221204;-0,064538521;0,134370962;Adults;Veterans;Clinical;PTSD;USA;6;0,5;1;1;1;1;No information;2018
+93;Linehan 2006;Dialectic;TAU;101;-0,117265126;0,199266172;0,513095772;0,177360195;Adults;General;Clinical;Personality disorders /borderline;USA;104;1;0;1;NA;1;No information;2006
+94;Linehan 2015;Dialectic;TAU;49,5;0,070628085;0,301594891;NA;NA;Adults;General;Clinical;Personality disorders /borderline;USA;104;1;1;1;NA;1;No information;2015
+96;LoParo 2018;Cognitive;Other control;252;-0,181921907;0,126248492;NA;NA;Adults;General;Clinical;Suicidality only;USA;6;1;0,5;NA;2;0;High risk;2018
+97;Lu 2019;Cognitive;Waitlist;49;-0,141121139;0,289026901;NA;NA;Adolescents;Other;Other;NA;East Asia;8;0,5;0,5;NA;2;0;High risk;2019
+99;McAuliffe 2014;Problem solving;TAU;433;NA;NA;-0,008259634;0,054034434;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;EU;6;1;1;1;2;1;High risk;2014
+102;McManamaO'Brien 2018;Mixed/other;TAU;50;0,163470811;0,283314714;0,040005335;0,055757832;Adolescents;General;Clinical;Suicidality only;USA;2;1;0,5;2;2;0;High risk;2018
+103;Mehlum 2014;Dialectic;TAU;77;-0,758419814;0,23599128;NA;NA;Adolescents;General;Clinical;Suicidality only;EU;19;1;1;1;2;1;High risk;2014
+104;Melvin 2006;Cognitive;Medication;48;-0,185864451;0,290303176;NA;NA;Adolescents;General;Clinical;Major Depression;Australia;12;1;1;NA;2;0;High risk;2006
+105;Monteso-Curto 2015;Cognitive;Medication;34,5;-0,148466847;0,361599554;NA;NA;Adults;General medical;NA;NA;EU;4;0,5;0,5;NA;2;0;High risk;2015
+106;Monteso-Curto 2015;Mixed/other;Medication;36,5;0,072142258;0,356409619;NA;NA;Adults;General medical;NA;NA;EU;NA;0,5;0,5;NA;2;0;High risk;2015
+108;Morley 2014;Cognitive;TAU;185;-0,030133135;0,155152155;NA;NA;Adults;General;Clinical;Substance abuse;Australia;8;0,5;1;1;0;1;High risk;2014
+109;Morthorst 2012;Problem solving;TAU;243;NA;NA;-0,062792459;0,050903022;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;EU;9;1;1;0,5;NA;1;No information;2012
+110;Naidoo 2014;Mixed/other;Other control;688;NA;NA;0,146603474;0,041606886;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;Other;NA;1;0,5;0;NA;0;High risk;2014
+111;Patel 2017;Mixed/other;TAU;493;NA;NA;0,183386476;0,054647487;Adults;General;Clinical;Major Depression;Other;7;1;1;1;1;1;No information;2017
+112;Patsiokas 1985;Cognitive;Other control;7,5;-0,124140804;0,775259567;NA;NA;Adults;General;Clinical;Suicidality only;USA;10;0,5;0,5;NA;0,5;1;High risk;1985
+113;Patsiokas 1985;Problem solving;Other control;7,5;-0,953115689;0,812749634;NA;NA;Adults;General;Clinical;Suicidality only;USA;10;0,5;0,5;NA;0,5;1;High risk;1985
+115;Pfeiffer 2019;Mixed/other;TAU;70;-0,12365959;0,239371613;0,057158414;0,085595482;Adults;General;Clinical;Suicidality only;USA;14;1;0,5;0;2;1;High risk;2019
+117;Pigeon 2019;Cognitive;TAU;54;-0,253767369;0,273258761;NA;NA;Adults;Veterans;Clinical;Comorbidity mild disorders;USA;4;1;1;1;1;0;High risk;2019
+118;Pineda 2013 ;Family;TAU;48;-0,599635082;0,295091127;NA;NA;Adolescents;General;Clinical;Suicidality only;Australia;6;1;1;2;2;1;High risk;2013
+119;Pistorello 2012;Dialectic;TAU;63;-0,66535408;0,258885158;NA;NA;Adults;Student population;Clinical;Personality disorders /borderline;USA;104;1;0,5;1;NA;1;No information;2012
+122;Pratt 2015;Cognitive;TAU;62;-0,087089303;0,25412063;NA;NA;Adults;Bereaved and complicated grief;Other;Suicidality only;UK;20;1;1;1;2;0;High risk;2015
+125;Rossouw 2012;Psychodynamic;TAU;80;NA;NA;-0,597837001;0,301511345;Adolescents;General;Clinical;Suicidality only;UK;NA;1;1;1;NA;1;No information;2012
+126;Rudd 2015;Cognitive;TAU;152;-0,424308175;0,164036636;0,159064695;0,075043136;Adults;Veterans;Clinical;Suicidality only;USA;12;1;0,5;1;2;1;High risk;2015
+127;Rudd 1996;Mixed/other;TAU;302;0,097443229;0,117494873;-0,002812423;0,011428072;Adults;Veterans;Clinical;Comorbidity mild disorders;USA;10;0,5;0,5;NA;0;0;High risk;1996
+128;Ryberg 2019;CAMS;TAU;78;NA;NA;0,04549574;0,075975467;Adults;General;Clinical;Suicidality only;EU;8;1;1;1;1;1;High risk;2019
+129;Salkovskis 1990;Cognitive;TAU;20;NA;NA;0,453255772;0,271632093;Adults;General;Clinical;Suicidality only;UK;5;0,5;0,5;0;2;1;High risk;1990
+130;Samaraweera 2007;Cognitive;TAU;9;-2,76926475;0,935973268;NA;NA;Adults;General;Community;Suicidality only;Other;8;1;0,5;NA;2;0,5;High risk;2007
+131;Sandler 2016;Family;Attention control;224;NA;NA;0,090618234;0,045649437;Adolescents;General;Community;NA;USA;12;1;0,5;2;2;0;High risk;2016
+132;Sanz Cruces 2018 ;Mixed/other;Waitlist;51;-0,253476651;0,28790271;NA;NA;Adults;General;Clinical;Adjustment disorder;EU;8;0,5;0,5;NA;2;0;High risk;NA
+136;Sheaves 2019;Mixed/other;TAU;24;-0,025574291;0,408264978;-0,09531018;0,155699789;Adults;General;Clinical;Psychosis;UK;NA;1;1;0,5;2;1;High risk;2019
+137;Simpson 2011;Cognitive;Waitlist;17;-0,486921762;0,493035931;NA;NA;Adults; Traumatic Brain Injury;Clinical;Suicidality only;USA;NA;1;1;NA;0,5;1;High risk;2011
+139;Sinniah 2017;Cognitive;TAU;69;-0,858682776;0,251840869;0,055143503;0,048963882;Adults;General;Clinical;Major Depression;Other;16;0,5;0,5;NA;2;0;High risk;2017
+140;Slee 2008;Cognitive;TAU;90;-0,649467653;0,216763088;NA;NA;Adolescents;General;Clinical;Suicidality only;EU;12;1;1;0;0;0;High risk;2008
+142;Stallard 2013;Cognitive;TAU;3078;NA;NA;-0,014758426;0,011763118;Adults;NA;Other;Major Depression;UK;9;1;1;NA;2;1;High risk;2013
+143;Stallard 2013;Cognitive;Attention control;3089;NA;NA;0,015613278;0,012664221;Adults;NA;Other;Major Depression;UK;9;1;1;NA;2;1;High risk;2013
+147;Tang 2009;Mixed/other;TAU;73;-0,768488812;0,24275966;NA;NA;Adolescents;General;Other;Major Depression;East Asia;12;0,5;0,5;NA;2;0;High risk;2009
+149;Tarrier 2014;Cognitive;TAU;49;-0,18084407;0,286357097;NA;NA;Adults;General;Clinical;Psychosis;UK;24;0,5;1;NA;2;0;High risk;2014
+153;Turner 2000;Dialectic;Other control;24;0;0,40824829;NA;NA;Adults;General;Emergency department/physical treatment after an attempt;Personality disorders /borderline;USA;66,5;0,5;1;0,5;2;1;High risk;2000
+154;Tyrer 1987;Mixed/other;TAU;60;-0,920594141;0,316591453;NA;NA;Adults;General;Clinical;Comorbidity mild disorders;UK;NA;0,5;0,5;0,5;NA;0;No information;1987
+155;Tyrer 2003;Cognitive;TAU;480;NA;NA;0,017424353;0,027524878;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;UK;7;1;1;0;NA;0;No information;2003
+156;van Beek 2013;Cognitive;TAU;150;-0,222845566;0,163805374;NA;NA;Adults;General;Clinical;Suicidality only;EU;10;1;1;1;1;1;High risk;NA
+158;Van Spijker 2014;Mixed/other;Waitlist;236;NA;NA;0,025012604;0,028707246;Adults;General;Community;Suicidality only;EU;6;1;1;NA;2;1;High risk;NA
+159;van Spijker 2018;Mixed/other;Attention control;418;0,168927389;0,098001984;-0,006178468;0,023620981;Adults;General;Community;Suicidality only;Australia;6;1;1;1;1;1;High risk;NA
+160;van Wel 2009;Mixed/other;TAU;83;NA;NA;0,008604847;0,049955781;Adults;General;Clinical;Personality disorders /borderline;EU;19;1;1;0;NA;0;No information;NA
+161;Verheul 2003;Dialectic;TAU;58;NA;NA;0,221531947;0,11909307;Adults;General;Clinical;Personality disorders /borderline;EU;52;1;1;0;NA;1;No information;2003
+162;Wagner 2014;Cognitive;TAU;62;-0,026800775;0,254143908;NA;NA;Adults;General;Community;Major Depression;EU;7;1;0;NA;2;0;High risk;2014
+163;Walker 2016;Psychodynamic;Other control;113;0,040610695;0,188170933;0,255371229;0,090664274;Adults;Bereaved and complicated grief;Other;Suicidality only;UK;6;1;0,5;0;2;0;High risk;2016
+164;Ward-Ciesielski 2017;Mixed/other;Attention control;93;0,08768462;0,207501958;-0,001483313;0,054473484;Adults;General;Clinical;Suicidality only;USA;1;1;0,5;1;2;0;High risk;2017
+165;Wei 2013;Cognitive;Other control;159;NA;NA;0,013375771;0,018011162;Adults;General;Emergency department/physical treatment after an attempt;Suicidality only;East Asia;10;1;1;0;2;1;High risk;2013
+166;Weinberg 2006;Cognitive;TAU;30;-0,856001569;0,381504449;NA;NA;Adults;General;Community;Personality disorders /borderline;USA;6;0,5;1;1;NA;0;No information;2006
+168;Wharff 2019;Family;TAU;139;-0,007818029;0,169677957;NA;NA;Adolescents;General;Emergency department/physical treatment after an attempt;Suicidality only;USA;1;0,5;0,5;2;0,5;1;High risk;2019
+169;Wilks 2018;Mixed/other;Waitlist;60;-0,494895536;0,262262915;NA;NA;Adults;General;Community;Substance abuse;USA;8;1;0,5;NA;0,5;0;High risk;2018
+170;Wood 2001;Mixed/other;TAU;63;-0,104506257;0,252179982;NA;NA;Adolescents;General;Clinical;Suicidality only;UK;7;0,5;1;1;0;0;High risk;2001
+171;Yen 2019;Mixed/other;TAU;77;NA;NA;0,155187218;0,11326506;Adolescents;General;Clinical;Suicidality only;UK;4;0,5;0,5;1;1;0;High risk;2019
