@@ -1,4 +1,4 @@
-;Study;Intervention;Comparison;Total number of participants;Hedges' g ideation;Standard Error Ideation;RR_attempts;SE_attempts;Age_group;Target Group;Recruitment;Disorder;Country;N_sessions;RoB_SG;RoB_AC;RoBCLAssAtt;RoB_BLAss_Ide;RoB_ITT;RoB_overall_ideation;Year
+;Study;Intervention;Comparison;Total number of participants;Hedges' g ideation;Standard Error Ideation;.RR_attempts;SE_attempts;Age_group;Target Group;Recruitment;Disorder;Country;N_sessions;RoB_SG;RoB_AC;RoBCLAssAtt;RoB_BLAss_Ide;RoB_ITT;RoB_overall_ideation;Year
 1;Alavi 2013;Cognitive;Waitlist;30;-2,930378418;0,525786992;NA;NA;Adolescents;General;Other;Major Depression;Other;12;0,5;0,5;NA;0,5;1;High risk;2013
 2;Albert 2017;Mixed/other;TAU;400;-0,345065472;0,100752609;NA;NA;Adults;General;Clinical;Psychosis;EU;NA;1;1;NA;1;1;No information;2017
 3;Amianto 2011;Psychodynamic;Other control;35;0,129726796;0,338555017;NA;NA;Adults;General;Clinical;Personality disorders /borderline;EU;40;1;1;0,5;NA;1;High risk;2011
