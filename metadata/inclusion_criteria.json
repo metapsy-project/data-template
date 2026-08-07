@@ -1,0 +1,26 @@
+{
+    "population": {
+        "inclusion": ["Adults aged 18-65 with a diagnosis of major depression"],
+        "exclusion": []
+    },
+    "intervention": {
+        "inclusion": ["Psychotherapy"],
+        "exclusion": []
+    },
+    "comparison": {
+        "inclusion": ["Inactive control group (e.g., waitlist, no treatment, care-as-usual)"],
+        "exclusion": []
+    },
+    "outcome": {
+        "inclusion": ["Depressive symptom severity, measured by a validated scale (e.g., HAM-D, BDI)"],
+        "exclusion": []
+    },
+    "study_design": {
+        "inclusion": ["Randomized controlled trials (RCTs)"],
+        "exclusion": []
+    },
+    "other": {
+        "inclusion": [],
+        "exclusion": []
+    }
+}
